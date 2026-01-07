@@ -1,4 +1,4 @@
-# Investigating-Time-Correlated-Noise-in-JWST-Exoplanet-Observations
+# JWST-mnemonics-exoplanet-light-curve-correlation-analysis
 Analysis of TRAPPIST-1 light curves using correlation methods, PCA, and a neural network model. Demonstrates time-series analysis, dimensionality reduction, and machine-learning techniques applied to astrophysical data. The goal is to understand patterns in stellar brightness variations and evaluate whether machine learning models can extract meaningful physical relationships from time-series photometric data.
 
 
